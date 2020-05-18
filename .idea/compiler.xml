@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/module-info.java" />
+      <file url="file://$PROJECT_DIR$/src/DoublyLinkedList/DoublyLinkedListIterator.java" />
+      <file url="file://$PROJECT_DIR$/src/DoublyLinkedList/MyIterator.java" />
+      <file url="file://$PROJECT_DIR$/src/DoublyLinkedList/DoubleLinkedList.java" />
+    </excludeFromCompile>
+  </component>
+</project>
